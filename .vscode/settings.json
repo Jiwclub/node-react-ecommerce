@@ -1,0 +1,10 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "workbench.colorCustomizations": {
+        // "editor.background": "#0b161b",
+      }
+}
